@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://github.com/lanagrujic/LanaKozmetickis/blob/main/sitemap.xml 
